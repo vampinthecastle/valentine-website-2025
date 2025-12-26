@@ -49,9 +49,10 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Im the luckiest boy ever!!!!!!!!",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🥑🪐😽💝"  // These will bounce around
+    // Show GIF
+    gifUrl: "https://i.pinimg.com/originals/1d/31/09/1d31096116d95049488ac53038e0123f.gif",
+    // Custom message under the GIF
+    message: "I love you my princess ❤️"
     },
 
     // Color scheme for the website
